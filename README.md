@@ -49,19 +49,6 @@ travel.in/
 
 ---
 
-## 🧑‍💻 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/travel.in.git
-```
-
-Open the project:
-
-```bash
-cd travel.in
-```
 
 Run locally by opening `index.html` in your browser.
 
