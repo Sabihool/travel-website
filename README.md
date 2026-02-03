@@ -27,10 +27,7 @@ Built with a clean UI, smooth animations, and performance-focused front-end prac
 
 ---
 
-## 🚀 Live Demo
 
-🔗 **Live Website:**
-👉
 
 ---
 
